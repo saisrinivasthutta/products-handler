@@ -16,7 +16,8 @@ A Node.js and Express API for managing a list of products in an SQLite database.
 
 ### 1. Clone the Repository
 
-git clone
+git clone https://github.com/saisrinivasthutta/products-handler
+
 cd project-directory
 
 ## Installing dependencies
